@@ -37,3 +37,8 @@ public-order $ 2019-07 $ On or near Park/open Space $ {'category': 'Under invest
 public-order $ 2019-07 $ On or near Sherborne Street $ {'category': 'Under investigation', 'date': '2019-07'}  
 public-order $ 2019-07 $ On or near Sherborne Street $ {'category': 'Under investigation', 'date': '2019-07'}  
 public-order $ 2019-07 $ On or near Florence Street $ {'category': 'Under investigation', 'date': '2019-07'}  
+
+## Improvements
+* Try to GUI this up and select location from a map
+* Add logging capability for error/info level writing
+* Add CSV writing capability for results 
