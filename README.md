@@ -7,7 +7,9 @@ Checks UK Crime Database for a given location and returns crimes in the area for
 
 ## Pre-requisites
 `
-pip install geopy  
+pip install geopy
+`  
+`
 pip install requests
 `
 
