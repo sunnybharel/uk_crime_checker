@@ -42,3 +42,5 @@ public-order $ 2019-07 $ On or near Florence Street $ {'category': 'Under invest
 * Try to GUI this up and select location from a map
 * Add logging capability for error/info level writing
 * Add CSV writing capability for results 
+* Add graph by crime category
+  * Add ability to poll multiple months and show trends of particular types of crime
